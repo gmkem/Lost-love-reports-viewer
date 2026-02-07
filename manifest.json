@@ -1,13 +1,12 @@
 {
   "name": "ตรวจสอบรายงาน SWC",
-  "short_name": "SWC Report",
-  "description": "ระบบตรวจสอบรายงานสำหรับสมาชิกสภานักเรียน",
-  "start_url": "admin.html",
+  "short_name": "SWC Reports",
+  "description": "ระบบตรวจสอบรายงานภายในสมาชิกสภานักเรียน",
+  "start_url": "/Lost-love-reports-viewer/",
   "display": "standalone",
-  "background_color": "#f4f5f7",
-  "theme_color": "#7c1d1d",
+  "background_color": "#8b1c1c",
+  "theme_color": "#8b1c1c",
   "orientation": "portrait",
-  "lang": "th",
   "icons": [
     {
       "src": "swc.png",
